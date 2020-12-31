@@ -1,0 +1,6 @@
+This my implementation of the exercices of the course :
+Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging on Udemy on Udemy 
+(https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+
+I use the STM32L5 with the Nucleo-L55ZE development board (instead of STM32F4)
+
