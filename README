@@ -2,5 +2,8 @@ This my implementation of the exercices of the course :
 Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging on Udemy on Udemy 
 (https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
 
-I use the STM32L5 with the Nucleo-L55ZE development board (instead of STM32F4)
+I was planning to use the STM32L5 with the Nucleo-L55ZE development board however, this developement board being new (2019 ?) it is not supported by OpenSTM32 tool ( a  free STM32 integrated development environment based on Eclipse)
+I finally use the STM32F7 discovery board that is supported (the only supported board I have at the moment).
+The installation of OpenSTM32 on Ubuntu is not that straightforward (as gksudo is not available on Ubuntu, I had to install in console mode in root and then pass all the installed files in user permission)
+
 
